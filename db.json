@@ -1,0 +1,130 @@
+{
+    "products": [
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "T-Shirt - 3",
+        "price": 865,
+        "brand": "Nike",
+        "discount": "200000000",
+        "gender": "male",
+        "id": 1
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "Shorts",
+        "price": 3000000,
+        "brand": "Puma",
+        "discount": "56",
+        "gender": "kids",
+        "id": 2
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "T-Shirt",
+        "price": 123,
+        "brand": "Nike",
+        "discount": "24",
+        "gender": "male",
+        "id": 3
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "Shorts",
+        "price": 796,
+        "brand": "Puma",
+        "discount": "25",
+        "gender": "kids",
+        "id": 4
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "T-Shirt",
+        "price": 231,
+        "brand": "Nike",
+        "discount": "15",
+        "gender": "male",
+        "id": 5
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "Shorts",
+        "price": 876,
+        "brand": "Puma",
+        "discount": "8",
+        "gender": "kids",
+        "id": 6
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "T-Shirt",
+        "price": 215,
+        "brand": "Nike",
+        "discount": "35",
+        "gender": "female",
+        "id": 7
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "Shorts",
+        "brand": "Puma",
+        "price": 726,
+        "discount": "45",
+        "gender": "kids",
+        "id": 8
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "title": "T-Shirt",
+        "price": 315,
+        "brand": "Nike",
+        "discount": "13",
+        "gender": "female",
+        "id": 9
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "brand": "Puma",
+        "price": 780,
+        "title": "Shorts",
+        "gender": "kids",
+        "discount": "27",
+        "id": 10
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "brand": "Nike",
+        "price": 365,
+        "title": "T-Shirt",
+        "gender": "male",
+        "discount": "15",
+        "id": 11
+      },
+      {
+        "image": "https://via.placeholder.com/300",
+        "brand": "Puma",
+        "price": 576,
+        "title": "Shorts",
+        "discount": "24",
+        "gender": "female",
+        "id": 12
+      },
+      {
+        "image": "",
+        "title": "",
+        "price": "",
+        "brand": "",
+        "discount": "",
+        "gender": "",
+        "id": 13
+      },
+      {
+        "image": "https://www.google.com/search?sxsrf=ALiCzsaK7U3L9EbYzbvIQ5Y1cUiv9HzKdA:1665268594456&q=image&tbm=isch&chips=q:image,online_chips:reverse+image:riav5h8tTZk%3D&usg=AI4_-kTiM9mXCsQjDECYwJnA92JdiczOWg&sa=X&ved=2ahUKEwiFvpz42NH6AhW4-3MBHbw0AQwQgIoDKAh6BAgJEC8",
+        "title": "1000000",
+        "price": "1223",
+        "brand": "hn",
+        "discount": "5653",
+        "gender": "",
+        "id": 14
+      }
+    ]
+  }
